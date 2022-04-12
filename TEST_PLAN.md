@@ -18,7 +18,7 @@ Test plan to automate Gmail API
 1. Clone the repository: git clone https://github.com/attuye/gmail-automation-chili-piper.git
 2. Go to the root directory
 3. Install all dependencies: npm install
-4. Open terminal and start the app: npm start
+4. Open terminal and start the Mimic app: npm start
 5. Open another terminal and start Cypress: npx cypress open
 6. Click the test case on Cypress dashboard and see the result
 

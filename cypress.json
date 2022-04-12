@@ -1,0 +1,8 @@
+{
+  "env": {
+    "googleClientId": "121410525546-0cah8evm8k3qgofqjbsp4guo53nclj68.apps.googleusercontent.com",
+    "googleClientSecret": "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",
+    "googleRefreshToken": "1//04EbrOhvpwhY8CgYIARAAGAQSNwF-L9Irq5vi6oH2d9vwBbT6vLgG-NuZqCsomMSI8Vv47lvHg225dsJZKFq0JWjHpE4KTfLsyro"
+  },
+  "baseUrl": "http://localhost:3000"
+}

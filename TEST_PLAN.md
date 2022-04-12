@@ -15,7 +15,7 @@ Test plan to automate Gmail API
 5. Send Message: User should be able to send message to others.
 
 # How to run locally
-1. Clone the repository: git clone https://github.com/attuye/gmail-automation.git
+1. Clone the repository: git clone https://github.com/attuye/gmail-automation-chili-piper.git
 2. Go to the root directory
 3. Install all dependencies: npm install
 4. Open terminal and start the app: npm start
